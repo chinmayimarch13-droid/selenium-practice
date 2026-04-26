@@ -1,0 +1,2 @@
+Selenium automates browser actions.
+Used for UI testing.
