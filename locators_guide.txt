@@ -1,0 +1,6 @@
+ID
+Name
+XPath
+CSS Selector
+Class Name
+Tag Name
